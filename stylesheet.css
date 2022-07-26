@@ -1,0 +1,22 @@
+
+html {
+  font-family: Helvetica;
+  font-size: 22px;
+  background-color: black;
+  opacity: 0.9;
+}
+
+.navbar {
+  display: inline-flex;
+  width: 100%;
+  align-items: flex-end;
+}
+
+h2, h4 {
+  color: seashell;
+}
+
+.mission {
+  width: 1200px;
+  display: inline-flex;
+}
