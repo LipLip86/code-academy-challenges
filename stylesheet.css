@@ -6,6 +6,9 @@ html {
   opacity: 0.9;
 }
 
+.container-header {
+  display: inline-flex;
+
 .navbar {
   display: inline-flex;
   width: 100%;
@@ -16,7 +19,19 @@ h2, h4 {
   color: seashell;
 }
 
+
 .mission {
   width: 1200px;
   display: inline-flex;
+}
+
+img {
+  height: 50px;
+}
+
+.container-mission {
+  display: flex;
+    background-image:
+        url("images/img-mission-background.jpg");
+
 }
